@@ -4307,4 +4307,5 @@ body.IE .register-page-wrap .container {
 }
 .name-header{
   text-wrap: nowrap;
+  flex: 1;
 }
