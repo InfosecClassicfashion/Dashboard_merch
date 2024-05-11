@@ -6,7 +6,9 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "63"
+        "Points": "63",
+        "Badge": "src/images/med1.png"
+
     },
     {
         "Name": "Rakesh Kulangareth",
@@ -15,7 +17,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "63"
+        "Points": "63",
+        "Badge": "src/images/med2.png"
     },
     {
         "Name": "Resham Sen",
@@ -24,16 +27,18 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "61"
+        "Points": "61",
+        "Badge": "src/images/med3.png"
     },
     {
-        "Name": "DeepaLakshmi Chettiyar",
+        "Name": "Deepa lakshmi",
         "email": "deepa.lakshmi@classicfashion.com",
         "Quiz": "87",
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "59"
+        "Points": "59",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Kandasamy Gurumani",
@@ -42,7 +47,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "59"
+        "Points": "59",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Varadharajan Ethiraj",
@@ -51,7 +57,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "59"
+        "Points": "59",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Chamila Gamage",
@@ -60,7 +67,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "58"
+        "Points": "58",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Arfan Nadeem",
@@ -69,7 +77,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "58"
+        "Points": "58",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Shimesh Manikoth",
@@ -78,7 +87,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "56"
+        "Points": "56",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Pankaj Sharma",
@@ -87,7 +97,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "56"
+        "Points": "56",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Visakh M",
@@ -96,7 +107,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "56"
+        "Points": "56",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Diwakar S",
@@ -105,7 +117,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "54"
+        "Points": "54",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Wasan Hmeidat",
@@ -114,7 +127,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "54"
+        "Points": "54",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Chithra jayaprakash",
@@ -123,7 +137,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "54"
+        "Points": "54",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Mahmoud obeidat",
@@ -132,7 +147,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "54"
+        "Points": "54",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Amit Sharma",
@@ -141,7 +157,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "53"
+        "Points": "53",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Harrison Haridasan",
@@ -150,7 +167,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "53"
+        "Points": "53",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "jeem johnson",
@@ -159,7 +177,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "53"
+        "Points": "53",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Prasanth Devadas",
@@ -168,7 +187,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "53"
+        "Points": "53",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Ashok Kumar",
@@ -177,7 +197,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "51"
+        "Points": "51",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Rajesh Reddy",
@@ -186,7 +207,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "51"
+        "Points": "51",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Leslie Durairaja",
@@ -195,7 +217,8 @@
         "ReportMail": "0",
         "TakenTraining": "50",
         "PhishingSimulation": "100",
-        "Points": "49"
+        "Points": "49",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Nuwan Buddhika",
@@ -204,7 +227,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "20"
+        "Points": "20",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "MURADI SOLIMAN",
@@ -213,7 +237,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "17"
+        "Points": "17",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Deepa priyangani",
@@ -222,7 +247,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Justin varghese",
@@ -231,7 +257,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Manoj francis",
@@ -240,7 +267,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Nilanka prasad",
@@ -249,7 +277,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Sudhakar kulangareth",
@@ -258,7 +287,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Suminda kurea",
@@ -267,7 +297,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Visakh m",
@@ -276,7 +307,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Anil  Kumar",
@@ -285,7 +317,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Benny John",
@@ -294,7 +327,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Chellamuthu Kumar",
@@ -303,7 +337,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Deepa  Priyangani",
@@ -312,7 +347,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Dushantha Wijerathna",
@@ -321,7 +357,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Girish Kumar",
@@ -330,7 +367,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Janaka Aberathna",
@@ -339,7 +377,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Joseph Mathew",
@@ -348,7 +387,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Momen Al-Nusirat",
@@ -357,7 +397,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Muhammad Ejaz Ahmed",
@@ -366,7 +407,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Narendra  Babu",
@@ -375,7 +417,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Nayagam  Nadar",
@@ -384,7 +427,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Nilanka Prasad Peiris",
@@ -393,7 +437,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Nissanka Gamini Sooriyabandara",
@@ -402,7 +447,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Pankaj  Sharma",
@@ -411,7 +457,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Rajesh Sasitharan",
@@ -420,7 +467,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Ramesh Kumar",
@@ -429,7 +477,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Rania Abu Zeitoun",
@@ -438,7 +487,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Santhosh  H Nair",
@@ -447,7 +497,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Srinivasan Kesavan",
@@ -456,7 +507,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Udaya Shantha",
@@ -465,7 +517,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Udayan Kariyamparambil",
@@ -474,7 +527,8 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     },
     {
         "Name": "Yousef Qaddoum",
@@ -483,6 +537,7 @@
         "ReportMail": "0",
         "TakenTraining": "0",
         "PhishingSimulation": "0",
-        "Points": "0"
+        "Points": "0",
+        "Badge": "src/images/med4.png"
     }
 ]
