@@ -877,7 +877,7 @@
 					// Fetch the email parameter from the URL
 					var userEmail = getUrlParameter('email');
 
-					currentUserData = data.find(x => x.email == userEmail);
+					currentUserData = data.find(x => x.email?.toUpperCase() == userEmail.toUpperCase());
 					if(currentUserData) {
 						document.getElementById("userName").innerHTML = currentUserData?.Name;
 						options6.series =  [currentUserData?.Points || 0];
