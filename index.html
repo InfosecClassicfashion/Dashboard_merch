@@ -93,7 +93,7 @@
 								</div>
 								<div class="widget-data">
 									<div class="h4 mb-0">Quiz</div>
-									<div class="weight-600 font-14">Contact</div>
+									<div class="weight-600 font-14"></div>
 								</div>
 							</div>
 						</div>
@@ -867,7 +867,7 @@
 		<script src="vendors/scripts/dashboard.js"></script>
 		<script>
 			var data = [];
-			fetch('output.json')
+			fetch('hod.json')
 				.then(response => response.json()) // Parse the JSON response
 				.then(jsonData => {
 					// Access the "Name" field from the JSON data
@@ -882,7 +882,7 @@
 						document.getElementById("userName").innerHTML = currentUserData?.Name;
 						options6.series =  [currentUserData?.Points || 0];
 						options.series =  [currentUserData?.Quiz || 0];
-						options2.series =  [currentUserData?.ReportMail || 0];
+						options2.series =  [currentUserData?.Reported || 0];
 						options3.series =  [currentUserData?.TakenTraining || 0];
 						options4.series =  [currentUserData?.PhishingSimulation || 0];
 
@@ -927,200 +927,6 @@
 				var results = regex.exec(location.search);
 				return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
 			};
-
-			var options6 = {
-	chart: {
-	  height: 350,
-	  type: 'radialBar',
-	  offsetY: 0
-	},
-	colors: ['#0B132B', '#222222'],
-	plotOptions: {
-	  radialBar: {
-		startAngle: -135,
-		endAngle: 135,
-		dataLabels: {
-		  name: {
-			fontSize: '16px',
-			color: undefined,
-			offsetY: 120
-		  },
-		  value: {
-			offsetY: 76,
-			fontSize: '22px',
-			color: undefined,
-			formatter: function (val) {
-			  return val;
-			}
-		  }
-		}
-	  }
-	},
-	fill: {
-	  type: 'gradient',
-	  gradient: {
-		  shade: 'dark',
-		  shadeIntensity: 0.15,
-		  inverseColors: false,
-		  opacityFrom: 1,
-		  opacityTo: 1,
-		  stops: [0, 50, 65, 91]
-	  },
-	},
-	stroke: {
-	  dashArray: 4
-	},
-	labels: ['Final Score'],
-};
-
-
-var options3 = {
-	
-	grid: {
-		padding: {
-			top: 0,
-			right: 0,
-			bottom: 0,
-			left: 0
-		},
-	},
-	chart: {
-		height: 100,
-		width: 70,
-		type: 'radialBar',
-	},	
-	plotOptions: {
-		radialBar: {
-			hollow: {
-				size: '50%',
-			},
-			dataLabels: {
-				name: {
-					show: false,
-					color: '#fff'
-				},
-				value: {
-					show: true,
-					color: '#333',
-					offsetY: 5,
-					fontSize: '15px',
-					formatter: function (val) {
-			  		return val + "%";
-					
-				}
-			}
-		}
-	},
-	colors: ['#ecf0f4'],
-	fill: {
-		type: 'gradient',
-		gradient: {
-			shade: 'dark',
-			type: 'diagonal1',
-			shadeIntensity: 0.8,
-			gradientToColors: ['#f56767'],
-			inverseColors: false,
-			opacityFrom: [1, 0.2],
-			opacityTo: 1,
-			stops: [0, 100],
-		}
-	},
-	states: {
-		normal: {
-			filter: {
-				type: 'none',
-				value: 0,
-			}
-		},
-		hover: {
-			filter: {
-				type: 'none',
-				value: 0,
-			}
-		},
-		active: {
-			filter: {
-				type: 'none',
-				value: 0,
-			}
-		},
-	}
-}
-};
-
-var options4 = {
-	
-	grid: {
-		padding: {
-			top: 0,
-			right: 0,
-			bottom: 0,
-			left: 0
-		},
-	},
-	chart: {
-		height: 100,
-		width: 70,
-		type: 'radialBar',
-	},	
-	plotOptions: {
-		radialBar: {
-			hollow: {
-				size: '50%',
-			},
-			dataLabels: {
-				name: {
-					show: false,
-					color: '#fff'
-				},
-				value: {
-					show: true,
-					color: '#333',
-					offsetY: 5,
-					fontSize: '15px',
-					formatter: function (val) {
-			  		return val + "%";
-					}
-				}
-			}
-		}
-	},
-	colors: ['#ecf0f4'],
-	fill: {
-		type: 'gradient',
-		gradient: {
-			shade: 'dark',
-			type: 'diagonal1',
-			shadeIntensity: 0.8,
-			gradientToColors: ['#2979ff'],
-			inverseColors: false,
-			opacityFrom: [1, 0.5],
-			opacityTo: 1,
-			stops: [0, 100],
-		}
-	},
-	states: {
-		normal: {
-			filter: {
-				type: 'none',
-				value: 0,
-			}
-		},
-		hover: {
-			filter: {
-				type: 'none',
-				value: 0,
-			}
-		},
-		active: {
-			filter: {
-				type: 'none',
-				value: 0,
-			}
-		},
-	}
-};
-
 
 		</script>
 	</body>
